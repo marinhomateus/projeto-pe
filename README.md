@@ -1,6 +1,6 @@
 # Projeto CRUD - LIVRARIA - PROGRAMAÇÃO ESTRUTURADA
 
-<img src="./img1.png" alt="exemplo imagem">
+<img src="./exemplo1.jpeg" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
