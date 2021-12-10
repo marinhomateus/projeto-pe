@@ -30,14 +30,6 @@ git clone https://github.com/marinhomateus/projeto-pe
 
 Em seguida execute o arquivo Projeto_CRUD_Matriz.c
 
-## ☕ Usabilidade
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Contribuindo para <nome_do_projeto>
@@ -79,6 +71,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/AntonioVidalJunior.png" width="100px;"/><br>
         <sub>
           <b>Antonio Carlos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/MarcusLucinda.png" width="100px;"/><br>
+        <sub>
+          <b>Marcos Lucinda</b>
         </sub>
       </a>
     </td>
