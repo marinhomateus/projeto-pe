@@ -51,7 +51,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/marinhomateus">
         <img src="https://github.com/marinhomateus.png" width="100px;"/><br>
         <sub>
           <b>Mateus Marinho</b>
@@ -59,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/RafaelTSantos99">
         <img src="https://github.com/RafaelTSantos99.png" width="100px;"/><br>
         <sub>
           <b>Rafael Teixeira</b>
@@ -67,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/AntonioVidalJunior">
         <img src="https://github.com/AntonioVidalJunior.png" width="100px;"/><br>
         <sub>
           <b>Antonio Carlos</b>
@@ -75,7 +75,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/MarcusLucinda">
         <img src="https://github.com/MarcusLucinda.png" width="100px;"/><br>
         <sub>
           <b>Marcos Lucinda</b>
